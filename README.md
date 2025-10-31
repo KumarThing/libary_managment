@@ -24,9 +24,12 @@ This program allows users to manage a collection of books — including adding, 
 ---
 
 ```bash
+
+Run
+
 go run main.go
 
----
+___
 
 # Example Session
 
